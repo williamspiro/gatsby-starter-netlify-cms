@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Spiro the dragon
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: I love Kung Fu Panda
+subheading: Kung Fu Panda is pretty sweet
 mainpitch:
-  title: Why Kaldi
+  title: My name is William Spiro
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
